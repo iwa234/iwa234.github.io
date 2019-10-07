@@ -1,0 +1,61 @@
+<html>
+<head>
+  <!-- write your hero's name here in the <title> element  -->
+  <title>Richard Arvin Overton</title>
+</head>
+
+
+<body>
+<div class="container">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12">
+        <h1 class="text-center">Richard Arvin Overton</h1>
+         <!-- Main Heading; Give the person's name; use <h1> -->
+        
+          <!-- Subheading; use <h2>  -->
+           <h2 class="text-center"><em>The oldest world war 2 veteran<em></h2>
+            <!-- place and image here; use an image already on the internet -->
+<img class="irc_mi" src="https://pbs.twimg.com/media/Dc6V7ZDX0AU8FpJ.jpg" alt="Image result for Richard Arvin Overton picture in his uniform" width=450 height="450" style="">
+            <!-- place a caption under your picture which explains the picture -->
+            <div>he died when he was 112 years old </div>
+          </div>
+          <div>
+            <!-- heading; use <h3>  -->
+            <h3>why im doing Richard Arvin Overton</h3>
+            <!-- write a paragraph explaining why your person is so great  -->
+            <p> he was the oldest man in the united states he died when he was 112 years old. he served 5 years in the army from 1940 to 1945 . he died in 2018 in texas on december 27 2018.he survived world war 2 and it was the war on south pacific theater he was honored by president Barack Obama in 2013.
+            </p>
+          </div>
+          <div>
+            <!-- Timeline heading; use <h3>  -->
+            <h3>timeline</h3>
+            <!-- create a timeline using an unordered list -->
+
+<li><strong>born may 11 1906</strong>
+            <li><strong> he servied in 1940 to 1945</strong>
+            <li><strong>  he went to world war 2 for 5 years</strong>
+            <li><strong>died december 28 2018</strong>
+            
+            
+            <blockquote>
+              <!-- use the <p> to display a famous quote from your hero -->
+              
+              <!-- don't forget the quoter's name here -->
+              <footer><cite>&nbsp;&nbsp;&nbsp;        </cite></footer>
+            </blockquote>
+            <!-- using the <h3> and the <a>, invite the reader to visit a wiki page concerning your hero  -->
+            <h3>y</h3>
+          </div>
+        </div>
+      </div>
+    </div>
+    <footer>
+      <!--  use the <hr> to create a horizontal line separating the footer section -->
+
+      <!--  using the <p>, take ownership of your page  -->
+      <p>         </p>
+    </footer>
+  </div>
+</body>
+</html>
